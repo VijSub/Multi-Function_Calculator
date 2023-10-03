@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This program is a versatile mathematical utility with a user-friendly menu interface. It offers a range of mathematical operations, including basic arithmetic (addition, subtraction, multiplication, division), prime number detection, factorization, algebraic equation solving, and simplifying square roots. Users can choose the desired mathematical task from the menu, making it a valuable tool for a wide range of mathematical calculations and problem-solving needs.
+This program is a versatile mathematical utility with a user-friendly menu interface. It offers a range of mathematical operations, including basic arithmetic (addition, subtraction, multiplication, division), prime number detection, factorization, algebraic equation solving, simplifying square roots, solving proportions, and factoring expressions. Users can choose the desired mathematical task from the menu, making it a valuable tool for a wide range of mathematical calculations and problem-solving needs.
 <br />
 
 
